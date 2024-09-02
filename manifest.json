@@ -1,0 +1,17 @@
+{
+  "lang": "en-us",
+  "name": "PWA Base",
+  "short_name": "PWA",
+  "description": "A basic PWA template",
+  "start_url": "/build",
+  "background_color": "lightblue",
+  "theme_color": "lightblue",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+      {
+          "src": "/icon512.png",
+          "sizes": "512x512"
+      }
+  ]
+}
